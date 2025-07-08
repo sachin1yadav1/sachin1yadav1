@@ -34,19 +34,29 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin1yadav1&layout=compact&theme=radical)](https://github.com/sachin1yadav1)
 
+---
+
 ## 🚀 Projects
 
-Here are some of my notable projects:
+Here are some real-world projects I’ve worked on:
 
-- [Project 1](https://github.com/sachin1yadav1/project1) - A brief description.
-- [Project 2](https://github.com/sachin1yadav1/project2) - A brief description.
-- [Project 3](https://github.com/sachin1yadav1/project3) - A brief description.
+- [Happy Lodgings](https://happylodgings.com/) – Hotel booking and lodging platform.  
+- [LettingsAway](https://lettingsaway.com/) – Property rental and booking website.  
+- [StarX Nutrition](https://starxnutrition.com/) – Fitness supplement e-commerce platform.  
+- [Chakh Kar Dekho](https://chakhkardekho.com/) – Food delivery and discovery service.  
+- [Mahakaal Prasad](https://www.mahakaalprasad.com/) – Prasad delivery from Mahakaleshwar.  
+- [Clay Inn Hotel](https://clayinnhotel.com/) – Hospitality and room booking system.  
+- [Eros Travels](https://erostravels.com/) – Travel and tourism booking service.  
+- [Amarnath Journey](http://amarnathjourney.com/) – Spiritual pilgrimage booking.  
+- [Clay1 Grand](https://clay1grand.in/) – Luxury hotel and events website.  
+- [The Barbeque Times](http://thebarbequetimes.com/) – BBQ events and catering portal.
+
+---
 
 ## 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin1yadav1)
+
 
 ---
 
