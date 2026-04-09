@@ -125,7 +125,7 @@ const sachin = {
 ### 💻 IT & Business Solutions
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **NTM Devices** | 🔌 Electronics and industrial device management solutions | Next.js, Python | [🔗 Visit](https://www.ntmdevices.com/) |
+| **NTM Devices** | 🩺 Advanced medical equipment and healthcare device solutions | Next.js, Python | [🔗 Visit](https://www.ntmdevices.com/) |
 | **Dreamer Infotech** | 🛠️ Custom-built IT services and bespoke web solutions | WordPress, PHP | [🔗 Visit](https://dreamerinfotech.in/) |
 | **Mural Mist** | 🎨 High-end creative art and design portfolio | Next.js (Work in Progress) | [🔗 Visit](https://muralmist.com/) |
 
