@@ -4,7 +4,7 @@
   
 ### 🚀 Senior Full-Stack Developer  | Crafting Scalable Digital Products
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+Developer+%7C+50%2B+Production+Projects;Full-Stack+Architecture+%7C+React+%7C+Next.js+%7C+Flutter;Cloud+Infrastructure+%7C+DevOps+%7C+Scalable+Systems;Leading+Teams+%26+Shipping+Products+That+Matter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=Senior+Full-Stack+Developer+%7C+50%2B+Production+Projects+Delivered;React+%7C+Next.js+%7C+Flutter+%7C+Laravel+%7C+Node.js;Cloud+Infrastructure+%7C+DevOps+%7C+Scalable+Systems;Building+High-Performance+Web+%26+Mobile+Applications)](https://git.io/typing-svg)
 
 </div>
 
