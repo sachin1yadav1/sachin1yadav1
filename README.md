@@ -16,7 +16,7 @@
 const sachin = {
     location: "Agra, India 🇮🇳",
     role: "Senior Full-Stack Developer",
-    company: "Sineriso",
+    company: "Crazy Host Marketing",
     expertise: ["Web Architecture", "Mobile Apps", "Cloud & DevOps", "Team Leadership"],
     currentFocus: "Scaling products, mentoring developers & building robust systems",
     projectsDelivered: "50+",
@@ -25,7 +25,7 @@ const sachin = {
 };
 ```
 
-- 🔭 I'm currently leading **product development & engineering at Sineriso**
+- 🔭 I'm currently leading **product development & engineering at Crazy Host Marketing**
 - 🏗️ Architecting **scalable web & mobile applications** across multiple domains
 - 🌱 Exploring **microservices, event-driven architecture & AI integration**
 - 💬 Ask me about **React, Next.js, Flutter, Laravel, Node.js, DevOps, or System Design**
